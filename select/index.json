@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "No.1",
+  "base_artist": "槇原敬之",
+  "createdAt": "2026-03-30T21:17:55.960210Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "No 1",
+      "artist": "Die Antwoord",
+      "has_synced": false,
+      "path": "select/01_No_1_Die_Antwoord.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "It's No Game (No. 1)",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/02_It's_No_Game_(No._1)_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Chant No. 1 (I Don't Need This Pressure On)",
+      "artist": "Spandau Ballet",
+      "has_synced": false,
+      "path": "select/03_Chant_No._1_(I_Don't_Need_This_Pressure_On)_Spandau_Ballet.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "No. 1 Fan",
+      "artist": "Majesty Crush",
+      "has_synced": false,
+      "path": "select/04_No._1_Fan_Majesty_Crush.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "No. 1 Fan",
+      "artist": "Majesty Crush",
+      "has_synced": true,
+      "path": "select/05_No._1_Fan_Majesty_Crush.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "T For Texas (Blue Yodel No. 1) - Live At The Fox Theater/1976",
+      "artist": "Lynyrd Skynyrd",
+      "has_synced": false,
+      "path": "select/06_T_For_Texas_(Blue_Yodel_No._1)_-_Live_At_The_Fox_Theater_1976_Lynyrd_Skynyrd.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "1 No. 1",
+      "artist": "Lou Bega",
+      "has_synced": true,
+      "path": "select/07_1_No._1_Lou_Bega.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "No. 1 Lowest Common Denominator",
+      "artist": "Todd Rundgren",
+      "has_synced": false,
+      "path": "select/08_No._1_Lowest_Common_Denominator_Todd_Rundgren.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Chant, No. 1",
+      "artist": "Spandau Ballet",
+      "has_synced": false,
+      "path": "select/09_Chant,_No._1_Spandau_Ballet.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Chant No 1 (I Don't Need This Pressure On) - 2010 Remastered Version",
+      "artist": "Spandau Ballet",
+      "has_synced": false,
+      "path": "select/10_Chant_No_1_(I_Don't_Need_This_Pressure_On)_-_2010_Remastered_Version_Spandau_Ballet.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Chant No. 1 (I Don’t Need This Pressure On)",
+      "artist": "Spandau Ballet",
+      "has_synced": false,
+      "path": "select/11_Chant_No._1_(I_Don’t_Need_This_Pressure_On)_Spandau_Ballet.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Chant No 1 (I Don't Need This Pressure On)",
+      "artist": "Spandau Ballet",
+      "has_synced": true,
+      "path": "select/12_Chant_No_1_(I_Don't_Need_This_Pressure_On)_Spandau_Ballet.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "No 1 Hit Medley",
+      "artist": "Modern Talking",
+      "has_synced": true,
+      "path": "select/13_No_1_Hit_Medley_Modern_Talking.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "No. 1 Fan",
+      "artist": "Ginuwine",
+      "has_synced": false,
+      "path": "select/14_No._1_Fan_Ginuwine.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Numbers - Interlude No. 1",
+      "artist": "Smoke City",
+      "has_synced": false,
+      "path": "select/15_Numbers_-_Interlude_No._1_Smoke_City.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "No. 1 Party Anthem",
+      "artist": "Arctic Monkeys",
+      "has_synced": true,
+      "path": "select/16_No._1_Party_Anthem_Arctic_Monkeys.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "No.1",
+      "artist": "槇原 敬之",
+      "has_synced": false,
+      "path": "select/pl_01_No.1_槇原_敬之.txt"
+    }
+  ]
+}
